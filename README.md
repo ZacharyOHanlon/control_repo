@@ -1,3 +1,3 @@
 # control_repo
-#repo for puppe testing
+#repo for puppet testing
 #this is a change
