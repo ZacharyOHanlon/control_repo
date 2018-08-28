@@ -1,5 +1,5 @@
 class role::app_server {
-  inlcude profile::web
+  include profile::web
   include profile::base
-  inlcude Profile::app
+  include Profile::app
 }
